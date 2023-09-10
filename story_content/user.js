@@ -2,118 +2,118 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6bquIxXuwZr":
+      case "5jWvZAHbvii":
         Script1();
         break;
-      case "5tFxvSkGTx8":
+      case "6He1lOempEb":
         Script2();
         break;
-      case "5f14yL8Tv8Z":
+      case "65vuqANZlgH":
         Script3();
         break;
-      case "5ijwC4RwPmM":
+      case "6YDPNIWuDji":
         Script4();
         break;
-      case "6lsjhJKzDNv":
+      case "6apu6Pj1GA3":
         Script5();
         break;
-      case "6PMLsI4g7UA":
+      case "62lhCNeKOBU":
         Script6();
         break;
-      case "6kOwKv57GwJ":
+      case "6P1rchUTkhL":
         Script7();
         break;
-      case "6mSqLusqKqr":
+      case "63u3UrYSkAX":
         Script8();
         break;
-      case "5XXNNWAmESI":
+      case "6FSOzAbYvbq":
         Script9();
         break;
-      case "69WtrpUf6AG":
+      case "6ZVUqck83KL":
         Script10();
         break;
-      case "5VlJFDsQoFT":
+      case "6EdbOCn3Zme":
         Script11();
         break;
-      case "64xrVaQhsyu":
+      case "6Qwfy6r4BO3":
         Script12();
         break;
-      case "5WyL9u6ZyKL":
+      case "6ROA9mAsfhm":
         Script13();
         break;
-      case "5X281uxtxW2":
+      case "6QOatMsmsvU":
         Script14();
         break;
-      case "6ea9q8lbBSr":
+      case "6bg7f1RU48q":
         Script15();
         break;
-      case "6bQLVPvi0HB":
+      case "61CZeVLOo3s":
         Script16();
         break;
-      case "6FbbNm4ffZM":
+      case "6NV3NYj0Ln3":
         Script17();
         break;
-      case "5uIgCEnlJje":
+      case "5jqiH5trprf":
         Script18();
         break;
-      case "6iicAwuHRr1":
+      case "5zA2U2GTSbu":
         Script19();
         break;
-      case "6kVciaCy24P":
+      case "5oBD1g9Yb2X":
         Script20();
         break;
-      case "6ovXepkTWFI":
+      case "64tz7MtoRi7":
         Script21();
         break;
-      case "5oZ5u7pzlD4":
+      case "5n5MqGCExvC":
         Script22();
         break;
-      case "6Zn4hNDQqWG":
+      case "5tfM5R1tELd":
         Script23();
         break;
-      case "6IRjvhnGQiF":
+      case "60tvII0Z8c9":
         Script24();
         break;
-      case "6faBhn4jidg":
+      case "5mPRXEoWK2b":
         Script25();
         break;
-      case "6HehBkilN38":
+      case "6EYPnfWmpCc":
         Script26();
         break;
-      case "5nARNMuzNFp":
+      case "68vVOgW0d8l":
         Script27();
         break;
-      case "6eiHnOGED45":
+      case "6CbAZkBtliI":
         Script28();
         break;
-      case "6hsmbtSIYdt":
+      case "6jWS7WofQtx":
         Script29();
         break;
-      case "5mHWQtBe28D":
+      case "6WIQzssGrQ5":
         Script30();
         break;
-      case "625Ppw5fcr5":
+      case "6ZnWBXPiHe9":
         Script31();
         break;
-      case "5ejCqmQb3av":
+      case "5cghgIevGzZ":
         Script32();
         break;
-      case "5wCRVIE1x6V":
+      case "5cuemPNPG05":
         Script33();
         break;
-      case "6iusVBl58rS":
+      case "6RMJYLLpS13":
         Script34();
         break;
-      case "6gT7vIKnC4j":
+      case "5nLoJxL5EjZ":
         Script35();
         break;
-      case "5mZOj0D6T4D":
+      case "63MDkcBUGIY":
         Script36();
         break;
-      case "6N94ls0sLvf":
+      case "6kSGhcHZ0Zh":
         Script37();
         break;
-      case "6hKiVrPBX3P":
+      case "5lnqsEpRXiJ":
         Script38();
         break;
   }
@@ -359,15 +359,15 @@ gtag('event', 'page_view', {page_title: STLpagetitle});
 
 function Script35()
 {
-  gtag('event', 'click', {
-  'event_category' : 'userclicks',
-  'event_label' : 'OSSIX Bone'
-});
+  ga('send', 'event', 'Button', 'click', 'GLYMATRIX');
 }
 
 function Script36()
 {
-  gtag('send', 'event', 'Button', 'click', 'OSSIX Volumax');
+  gtag('event', 'click', {
+  'event_category' : 'userclicks',
+  'event_label' : 'OSSIX Bone'
+});
 }
 
 function Script37()
@@ -377,6 +377,6 @@ function Script37()
 
 function Script38()
 {
-  ga('send', 'event', 'Button', 'click', 'GLYMATRIX');
+  gtag('send', 'event', 'Button', 'click', 'OSSIX Volumax');
 }
 
